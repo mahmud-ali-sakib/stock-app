@@ -70,7 +70,7 @@ const onSubmit = async (data: SignUpFormData) => {
         <InputField
           name="email"
           label="Email"
-          placeholder="contact@jsmastery.com"
+          placeholder="jhon@doe.com"
           register={register}
           error={errors.email}
           validation={{
